@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://james99345.github.io/Kiran-Studios/sitemap.xml
